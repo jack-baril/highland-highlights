@@ -1,0 +1,4 @@
+pymupdf
+pyside6
+python3-docx
+python3-dotenv
